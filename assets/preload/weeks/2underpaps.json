@@ -1,0 +1,40 @@
+{
+	"songs": [
+		[
+			"shiftless",
+			"paps",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"lazybones",
+			"paps",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
